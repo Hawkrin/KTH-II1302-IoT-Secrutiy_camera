@@ -17,3 +17,9 @@ Camera
 
 Camera components 
 ![camera](https://puu.sh/J1kWZ/f5aabe3b14.jpg)
+
+Image Feed
+![camera](https://puu.sh/J1l0h/d15cedbad5.jpg)
+
+Summary view
+![camera](https://puu.sh/J1l0y/e5d74999fd.jpg)
