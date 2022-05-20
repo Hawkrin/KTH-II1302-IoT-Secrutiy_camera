@@ -18,6 +18,9 @@ Camera
 Camera components 
 ![camera](https://puu.sh/J1kWZ/f5aabe3b14.jpg)
 
+Camera components without case
+![camera](https://puu.sh/J1l2d/20cdc30447.jpg)
+
 Image Feed
 ![camera](https://puu.sh/J1l0h/d15cedbad5.jpg)
 
