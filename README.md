@@ -7,12 +7,13 @@ A security camera created via the following hardware:
 4. SD-card reader
 5. Camera Module
 
+The ESP32 sends the images taken to Firebase(previously Azure) and then a website created in ReactJS fetches the data and renders it.
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
+Components 
+![camera](https://puu.sh/J1kZ9/2fbfa84b99.png)
 
 Camera 
-![camera](https://puu.sh/J1kUK/87e7f5981c.png | width=100)  
+![camera](https://puu.sh/J1kUK/87e7f5981c.png)  
 
 Camera components 
 ![camera](https://puu.sh/J1kWZ/f5aabe3b14.jpg)
