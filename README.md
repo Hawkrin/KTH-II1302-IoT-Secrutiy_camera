@@ -10,7 +10,7 @@ A security camera created via the following hardware:
 
 
 Camera 
-![camera](https://puu.sh/J1kUK/87e7f5981c.png)  
+![camera](https://puu.sh/J1kUK/87e7f5981c.png =250x250)  
 
 Camera components 
 ![camera](https://puu.sh/J1kWZ/f5aabe3b14.jpg)
